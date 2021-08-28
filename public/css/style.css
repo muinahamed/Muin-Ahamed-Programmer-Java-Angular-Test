@@ -1,0 +1,46 @@
+.hrt{
+    border:1px solid green;
+}
+a{
+
+    text-decoration: none;
+}
+.terms{
+     color: red;
+     
+}
+.form-control-cs:focus {
+    border-color:#8A2BE2;
+    box-shadow: 0 0 0 0.07rem hsla(271, 94%, 50%, 0.11);
+}
+.radio{
+    color: #5d0ea7bb;
+}
+.sc{
+    height: 40px;
+}
+
+
+/* second hr- */
+.second-hr{
+
+    margin-top: 85px;
+}
+
+/* final blade circle*/
+.w{
+    font-weight:bolder;
+   
+}
+.w1{
+
+    font-size: 13px;;
+
+}
+.c{
+    color: #50b9de;
+}
+
+
+
+
